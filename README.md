@@ -20,3 +20,6 @@ README.md
 LICENSE.md
 
 ## Instructions for reproduction
+
+To reproduce our EDA, simply run the EDA.ipynb script. 
+To reproduce our 
