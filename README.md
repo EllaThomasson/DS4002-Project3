@@ -9,11 +9,11 @@ Image Detection
 - Platform: Mac
 
 ## Map of documentation
-**DATA** -- 
+**DATA** -- README.md
 
-**OUTPUT** -- 
+**OUTPUT** -- CNN_confusion_matrix.jpg, CNN_epoch_tuning.jpg, NN_epoch_tuning.jpg
 
-**SCRIPTS** -- Preprocessing.ipynb, EDA.ipynb
+**SCRIPTS** -- CNN_Code.ipynb, EDA_official, Preprocessing&Analysis.ipynb
 
 README.md
 
