@@ -24,4 +24,4 @@ LICENSE.md
 To reproduce our EDA, simply run the EDA.ipynb script. 
 To reproduce the NN model, the RF model, and the LDA model, simply run the Preprocessing&Analysis.ipynb script. 
 Lastly, to reproduce the CNN model, run the CNN_Code.ipynm script. 
-Note that no data needs to be read into any of these files, because the data is read in through a python package. 
+Note that no data needs to be read into any of these files, because the data is read in through a python package. The code for this is included in each script. 
