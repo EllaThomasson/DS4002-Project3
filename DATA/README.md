@@ -7,6 +7,8 @@ The data for this project comes from the MNIST Database from the Keras package. 
 
 It reads in with an automatic train/test split. If this predetermined split is not desired, it can be concatenated with the following code:
 
+**import numpy as np**
+
 **X_combined = np.concatenate((X_train, X_test), axis=0)**
 
 **y_combined = np.concatenate((y_train, y_test), axis=0)**
